@@ -4,10 +4,7 @@
  */
 package exoop1;
 
-/**
- *
- * @author wesle
- */
+
 public class Transmissao {
     private int numeroMarcha;
     private boolean pontoMorto;
